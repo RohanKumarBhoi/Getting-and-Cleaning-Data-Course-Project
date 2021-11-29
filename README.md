@@ -22,4 +22,4 @@ Finally, open an R console of your choice, set the working directory to the `UCI
 
 Execute the script by the command `source("run_analysis.R")`.
 
-Note that executing this script will create a "tidyData.csv" file (in your working directory) containing the tidy data set.
+Note that executing this script will create a "tidyData.txt" file (in your working directory) containing the tidy data set.
